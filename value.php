@@ -161,7 +161,7 @@ $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
 $site='      <3  CHAUDHRYS BOTTERX <3
-              <3 mouzam-creater.tk <3
+              <3 mouzam-bot.tk <3
 <3 OWNER <3 MOUZAM ALI <3  ';
 $true=$ops.'
 :) '.$ips.' :)
